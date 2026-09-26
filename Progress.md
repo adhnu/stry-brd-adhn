@@ -46,3 +46,17 @@ Status: Not Started
 
 ### Final Documentation
 Status: Not Started
+
+
+## Test Case Preparation
+
+### Work Completed
+- Identified the main functions of the Food Delivery System.
+- Prepared test cases for user registration and login.
+- Prepared test cases for food browsing and searching.
+- Prepared test cases for cart and order placement.
+- Prepared test cases for payment and order tracking.
+- Prepared test cases for delivery status and logout.
+
+### Status
+Test Case Preparation - Completed
